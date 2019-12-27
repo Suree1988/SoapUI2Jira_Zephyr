@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0"
            tests="1"
-           time="3.166006">
-   <testcase classname="SoapUI2Jira_TM4J" name="SoapUI2Jira_TM4J" time="3.166006">
+           time="3.02666">
+   <testcase classname="SoapUI2Jira_Zephyr" name="SoapUI2Jira_zephyr" time="3.02666">
       <system-out>Given Sending test report from SoapUI to JIRA...............................passed
 </system-out>
    </testcase>

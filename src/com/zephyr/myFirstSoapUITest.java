@@ -10,7 +10,7 @@ public class myFirstSoapUITest {
 	public void sending_test_report_from_SoapUI_to_JIRA() throws Throwable {
 		
 		  SoapUITestCaseRunner runner = new SoapUITestCaseRunner(); 
-		  runner.setProjectFile( "C:\\Users\\suree\\eclipse-workspace\\SoapUI2Jira_TM4J\\SoapUI_File\\CountryInfo-soapui-project.xml" );
+		  runner.setProjectFile( "SoapUI_File/CountryInfo-soapui-project.xml" );
 		  runner.run(); 
 	}
 
